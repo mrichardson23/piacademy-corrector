@@ -19,10 +19,10 @@ twitter = Twython(
 
 messages = [
 	" Hello there! The correct hashtag is #Picademy.",
-	" What a great tweet! Use the hashtag #Picademy instead.",
+	" What a great tweet! Please use the hashtag #Picademy instead.",
 	" I want to make sure your fellow educators see your tweets, so be sure to use the hashtag #Picademy instead.",
 	" I love your enthusiasm. Join the conversation with the hashtag #Picademy (note the spelling).",
-	" You've use the wrong hashtag... and that is OK. But please use #Picademy going forward.  Thanks.",
+	" You've used the wrong hashtag... and that is OK. But please use #Picademy going forward.  Thanks.",
 	" It seems you've got an extra 'a' in your tweet.  The correct hashtag is #Picademy"
 ]
 
